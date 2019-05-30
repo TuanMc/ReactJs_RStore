@@ -1,6 +1,9 @@
 ## Demo:
 [https://react-basic-1.firebaseapp.com/](https://react-basic-1.firebaseapp.com/)
 
+### Description:
+An international e-commerce website which supports multi-languages in many different countries. The project is built based on ReactJS and Redux for UI handler and Firebase for authentication and hosting.
+
 ## Available Scripts
 
 In the project directory, you can run:
